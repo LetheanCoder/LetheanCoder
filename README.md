@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeviantCoder
+- 👋 Hi, I’m @LetheanCoder
 - 👀 I’m interested in all things IT. Development has become the most recent path of interest.
 - 🌱 I’m currently learning development for all things scripting and programming.
 
